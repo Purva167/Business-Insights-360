@@ -1,6 +1,6 @@
 # Business-Insights-360
 **Business Insights 360** is a powerBI project designed to deliver valuable insights, optimize performance and support data driven decision making. This project contains 
-**Finance view**, **Sales view**, **Marketing view**, **Supply Chain view**, **Executive view**. This project utilizes PowerBI to enhance strategic planning, and boosts overall business efficiency. 
+**Finance view**, **Sales view**, **Marketing view**, **Supply Chain view**, **Executive view**. This project utilizes PowerBI to enhance strategic planning and boost overall business efficiency. 
 
 **🔗 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTc0YzdlOTEtY2FiNS00MjNjLTliYmYtZmUzNzM0MDA1MzVmIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection)**
 
@@ -26,7 +26,7 @@
 ##   Executive view
 - Generated revenue contribution by channel
 - Pinpoint high value customers and products by revenue
-- Executive View provides top-level management with insights into key performance indicators and overall business health,
+- Executive View provides top-level management with insights into key performance indicatorsand overall business health,
    enabling effective strategy formulation, and timely response to emerging opportunities and challenges.
 
  ### Tools Used
